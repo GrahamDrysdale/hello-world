@@ -1,3 +1,3 @@
 # hello-world
 Read Me
-This is teh first time I've used this!
+This is the first time I've used this!
